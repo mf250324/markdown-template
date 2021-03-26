@@ -1,23 +1,23 @@
 {
-  "name": "@asyncapi/markdown-template",
+  "name": "mf250324/markdown-template",
   "version": "0.13.4",
-  "description": "Markdown template for the AsyncAPI generator.",
+  "description": "Markdown template for the AsyncAPI generator. Forked from @asyncapi/markdown-template",
   "keywords": [
     "asyncapi",
     "generator",
     "markdown",
     "template"
   ],
-  "author": "Fran Mendez <fmvilas@gmail.com> (fmvilas.com)",
+  "author": "Matthew Ferrell <mf250324@ncr.com>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asyncapi/markdown-template.git"
+    "url": "git+https://github.com/mf250324/markdown-template.git"
   },
   "bugs": {
-    "url": "https://github.com/asyncapi/markdown-template/issues"
+    "url": "https://github.com/mf250324/markdown-template/issues"
   },
-  "homepage": "https://github.com/asyncapi/markdown-template#readme",
+  "homepage": "https://github.com/mf250324/markdown-template#readme",
   "scripts": {
     "test": "echo \"No test specified yet\"",
     "lint": "echo \"No linter specified yet\"",
